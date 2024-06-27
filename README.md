@@ -1,18 +1,39 @@
-## Getting Started
+# Sistematização de POO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esse projeto foi desenvolvido para a empresa Max Global Sports, seu objetivo é armazenar as informações dos empregados. O sistema faz a geração de cartões com as principais informações dos funcionários, como nome e matrícula,alergias e problemas de saúde relevantes e informações de contato como telefone e e-mail.
 
-## Folder Structure
+## Tecnologias utilizadas
 
-The workspace contains two folders by default, where:
+A principal tecnologia utilizada para desenvolver esse sistema é a linguagem de programação Java, que pode ser utilizado em:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ * Sistemas embarcados;
+ * Aplicações web;
+ * Aplicações em dispositivos android;
+ * Aplicações em microsserviço;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Como utilizar o projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Para utilizar esse projeto, é necessário criar um clone desse repositório em sua máquina local. O comando para criar o clone do projeto é o seguinte:
 
-## Dependency Management
+```bash
+git clone https://github.com/LuizaSoaresDias/sistematizacao-poo.git
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Antes de fazer o clone, escolha o diretório onde deseja executá-lo.
+
+### Como executar o projeto
+
+Após realizar o clone do projeto, entre nele e abra o projeto no Visual Studio Code (ou em outra IDE de sua preferência). Para executar este projeto, existem duas formas:
+
+ * A primeira forma é executar no arquivo "App.java" utilizando a Interface de execução de sua IDE;
+ * A segunda forma é executar no terminal o seguinte comando:
+
+
+Seu diretório atual para acessar a pasta "bin"
+```bash
+{Seu Diretório atual}\ cd bin
+```
+
+```bash
+{Seu Diretório atual}\bin java App
+```
