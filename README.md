@@ -26,10 +26,8 @@ Antes de fazer o clone, escolha o diretório onde deseja executá-lo.
 Após realizar o clone do projeto, entre nele e abra o projeto no Visual Studio Code (ou em outra IDE de sua preferência). Para executar este projeto, existem duas formas:
 
  * A primeira forma é executar no arquivo "App.java" utilizando a Interface de execução de sua IDE;
- * A segunda forma é executar no terminal o seguinte comando:
+ * A segunda forma é executar no terminal os seguintes comandos:
 
-
-Seu diretório atual para acessar a pasta "bin"
 ```bash
 {Seu Diretório atual}\ cd bin
 ```
